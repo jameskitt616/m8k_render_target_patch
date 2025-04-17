@@ -21,7 +21,7 @@ The original Render Target is 3552x3552, which is a limiting factor for a Headse
 ### How to install
 1. Take your patched `MeganeX_Compositor.<render_target>.exe` file and rename it to `MeganeX_Compositor.exe`
 2. Close the Meganex Configurator Program (Check your Windows tray icons as well if it's still running)
-3. Go to the following path `C:\Program Files\MeganeXSuperlight\OpenVRMiddleware\MeganeXSuperlight\bin\win64` and replace your existing `MeganeX_Compositor.exe` file, with the one you just downloaded and renamed. 
+3. Go to the following path `C:\Program Files\MeganeXSuperlight\OpenVRMiddleware\MeganeXSuperlight\bin\win64` and replace your existing `MeganeX_Compositor.exe` file, with the one you just patched and renamed (NOTE: you may want to copy the original `MeganeX_Compositor.exe` somewhere as a backup to go back to if you wish. You can always go back by completely uninstalling and reinstalling the Software again). 
 4. You can start the Meganex Configurator again
 
 ### Honorable Mention
